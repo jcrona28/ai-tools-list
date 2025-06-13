@@ -1,23 +1,64 @@
-<h1>Supercharge Your Creativity with Supermaker AI</h1>
+# OpenL - AI-Powered Precision Translator
 
-<p>In the fast-evolving landscape of digital content creation, a new platform is making waves by offering a comprehensive and integrated solution for creators. <strong>Supermaker AI</strong> is an all-in-one powerhouse that seamlessly combines video, image, music, and voice generation and editing into a single, intuitive platform.</p>
+[![Website](https://img.shields.io/badge/Website-openl.ai-blue.svg)](https://openl.ai/)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
 
-<h2>All-in-One Creative Suite</h2>
-<p>At the heart of Supermaker AI is a complete video workflow that empowers users to create cinema-grade videos from concept to final cut. The platform boasts a unique chat mode, allowing for a more interactive and intuitive way to create and refine various media types. With its AI Movie Generator, Supermaker AI can render every frame in stunning high-resolution, ensuring unparalleled visual fidelity and superior character consistency.</p>
+OpenL is a professional-grade translation tool powered by leading AI models, designed to provide accurate, natural, and seamless cross-language communication.
 
-<h2>Key Features at a Glance</h2>
-<ul>
-    <li><strong>Comprehensive Workflow Tools:</strong> Includes tools for scripting, storyboarding, and advanced post-production.</li>
-    <li><strong>Customizable AI Workflows:</strong> Design and automate sequences of creative tasks to streamline your process.</li>
-    <li><strong>Cinema-Quality Visuals:</strong> High-resolution rendering for stunning visual fidelity.</li>
-    <li><strong>Immersive, Synchronized Audio:</strong> Generate videos with perfectly aligned and immersive sound.</li>
-    <li><strong>Extensive Effects Library:</strong> Access a vast library of visual effects, filters, and advanced editing tools.</li>
-    <li><strong>Superior Asset Management:</strong> Keep all your projects organized with an integrated versioning system.</li>
-</ul>
+---
 
-<h2>Who is it for?</h2>
-<p>Whether you're a seasoned professional or just starting your creative journey, Supermaker AI provides the tools and flexibility to bring your ideas to life. By integrating a wide array of creative tools into one platform, Supermaker AI is poised to become an indispensable asset for content creators everywhere.</p>
+## About OpenL
 
-<p>
-    To learn more and start creating, <a href="[https://supermaker.ai/](https://supermaker.ai/)">visit the Supermaker AI website</a>.
-</p>
+In an increasingly globalized world, language should be a bridge, not a barrier. OpenL was created to solve this problem by offering a clean, ad-free, and highly secure platform for high-quality translations. Whether you're handling daily text, academic papers, or business documents, OpenL ensures the accuracy and fluency of the output.
+
+![OpenL Interface Screenshot](https://i.postimg.cc/k47gC1r1/openl-ai-homepage.png)
+
+---
+
+## Key Features
+
+* **Pro-Grade Accuracy:** Powered by leading AI models fine-tuned by a team of linguists to ensure precise and reliable translations.
+* **All Media, One Click:** Instantly translate text, PDFs, images (using OCR), and even voice recordings.
+* **Layout Preservation:** Perfectly maintains the original formatting and layout when translating DOCX, PDF, and PPTX files.
+* **Context-Aware:** Intelligently handles idioms and nuanced phrasing to make translations feel natural and human-like.
+* **Secure & Ad-Free:** Features end-to-end HTTPS encryption with a clean interface, free of any ads or pop-ups.
+* **Pronunciation Aid:** Provides text-to-speech for both source and translated text to help improve your language skills.
+
+---
+
+## Getting Started
+
+You can start using the service immediately by visiting the website—no complex installation required.
+
+### Prerequisites
+
+* A modern web browser (e.g., Chrome, Firefox, Safari, Edge).
+* A stable internet connection.
+
+### How to Use
+
+1.  **Visit the Website**:
+    Navigate to [https://openl.ai/](https://openl.ai/)
+2.  **Choose Your Mode**:
+    Select whether you want to translate **Text**, **Files**, or **Images** at the top.
+3.  **Start Translating**:
+    Paste or upload your content into the input box on the left, select your target language on the right, and get your translation instantly.
+
+---
+
+## Use Cases
+
+OpenL is ideal for a variety of scenarios:
+
+* **Students & Researchers:** Quickly translate academic papers and reference materials while preserving document structure.
+* **Business Professionals:** Securely translate work reports, presentations, and emails.
+* **Travelers:** Instantly translate menus, signs, and conversations on the go.
+* **Language Learners:** Use the pronunciation feature and contextual translations to aid your studies.
+
+---
+
+## Contact
+
+To learn more or to start your first translation, please visit the official website.
+
+Project Link: [https://openl.ai/](https://openl.ai/)
